@@ -1,0 +1,13 @@
+- Webpack (imports/exports):
+  * Babel
+  * SCSS
+  * ESlint
+  * 2 modes:
+    - Development:
+      - Dev Server 
+      - SourceMaps 
+      - ESlint
+      - Not Minified JS & CSS
+    - Production:
+      - Minified Code  
+- Git
